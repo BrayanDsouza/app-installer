@@ -35,6 +35,11 @@ applications = [
         "name": "anydesk",
         "url": "https://download.anydesk.com/AnyDesk.exe",
         "install_command": "anydesk.exe"
+    },
+    {
+        "name": "cutePDF",
+        "url": "https://www.cutepdf.com/download/CuteWriter.exe",
+        "install_command": "cutePDF.exe"
     }
 ]
 
