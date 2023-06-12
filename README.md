@@ -1,5 +1,5 @@
-# Automated Application Installer
-This Automated Application Installer is a Python script designed to simplify the process of installing multiple applications on Windows machines. It provides a user-friendly interface that allows users to select the applications they want to install, automatically downloads them, and executes the installation commands.
+# Application Installer
+This Application Installer is a Python script designed to simplify the process of installing multiple applications on Windows machines. It provides a user-friendly interface that allows users to select the applications they want to install, automatically downloads them, and executes the installation commands.
 
 ## Features
 - Graphical user interface (GUI) for easy application selection.
